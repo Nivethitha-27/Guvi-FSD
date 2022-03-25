@@ -1,0 +1,163 @@
+TRAINS
+
+Problem:No direct train routes are shown
+
+Solution:we can use database of railways to show that
+
+Abstract:
+         In case no direct trains are available for the particular location,we have to search that to change our trains using the routes provided by the railways
+         database,Instead that the app or an website will show that while searching.
+
+Users:
+
+1.IRCTC
+
+2.Buses
+
+3.Airplane
+
+4.Cabs
+
+5.Hotels
+
+6.Passengers/Customers
+
+7.Admin
+
+Railways Module:
+
+@Railways has to make a tieup with the website/app
+
+@Railways allow the website/app to access their database
+
+@Railways has to provide database to the website/app
+
+@Railways has to give profit to the website/app for booking from it
+
+
+Airplane Module:
+
+#Domestic planes are only allowed 
+
+#planes allow the website/app to access their database
+
+#Planes has to provide database to the website/app
+
+#planes has to give profit to the website/app for booking from it
+
+
+Buses Module:
+
+*Bus has to create an account
+
+*It has to mention their specification
+
+*Bus has to provide the bus name
+
+*Bus has to give their starting and destination place
+
+*Bus has to provide the route they are going
+
+*Bus has to provide their starting time and reaching time
+
+*They have to give their waiting time and the break time also 
+
+*If the bus is delayed means it will be notified to the passengers
+
+*They have to provide Whether it is ac or non ac bus
+
+*They have to give their seat availability 
+
+*They allow passengers to book their seat by their wish  
+
+*If the seat is booked by women the nearby seats also booked by women that must be allowed by bus
+
+*They have to provide the berth details for the passenger( for senior citizens lowerberth is preferrable)
+
+*If they provide bedsheets and pillows its also mentionable
+
+*They have to give their fares and provide offers
+
+*The bus has to allow passengers to confirm their seats and make payment
+
+*Passengers can make a payment via an app/website
+
+
+
+Cabs Module:
+
+-Cabs have to create an account
+
+-Cab name has to be given
+
+-Cab number has to mention
+
+-Cab driver's driving license must be uploaded
+
+-Cab's type and the number of passengers travelling in the cab has to given
+
+-Their fare for per kilometer is given
+
+-passengers can book the cab and make a payment via an app/website
+
+
+Hotels Module:
+
+^Hotels have to create an account
+
+^Profile created for hotel
+
+^Hotels have to mention their Hotelname and phone number
+
+^Hotels to give their location and landmark
+
+^Hotels have to give their rooms availabilty
+
+^Hotels have to mention their room rent per day and offers
+
+^Hotels has to provide their rooms picture
+
+^Hotels have to give customers to book their rooms 
+
+^Hotels allow customers to make payment via an app/website
+
+
+Passengers/Customers:
+
+$Create an account
+
+$Giving user name and password
+
+$Their mail-id and mobile number are needed
+
+$Verification done by sending otp to their number or by sending link to their mail-id
+
+$They have to type the otp for confirmation or clicking the link for confirmation
+
+$Profile created for an user
+
+$If they forget their password it can be restored by sending otp to their mobile number or by the keyword sent to their mail-id
+
+$Users can give an bank details for booking their needs
+
+Admin Module:
+
+%Create an account
+
+%Give user name and password
+
+%Has to mention mail-id and mobile number
+
+%Profile created for an admin
+
+%Admin has to resolve the users issues 
+
+
+
+Wire Frame:
+        
+
+
+
+https://www.figma.com/file/Kr64zVA63OViczVRzW7jCa/Wire-frame?node-id=0%3A1
+\
