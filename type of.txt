@@ -1,0 +1,34 @@
+**typeof(1)
+
+     Output:NUMBER
+
+**typeof(1.1)
+
+      Output:NUMBER
+
+**typeof('1.1')
+
+      Output:STRING
+
+**typeof(true)
+
+      Output:Boolean
+
+**typeof(null)
+
+      Output:NULL
+
+**typeof(undefined)
+
+       Output:UNDEFINED
+
+**typeof([])
+
+        Output:Object
+
+**typeof({})
+
+       Output:FUNCTION
+**typeof(NaN)
+
+       Output:Number
