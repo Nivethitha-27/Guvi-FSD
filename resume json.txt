@@ -1,0 +1,68 @@
+
+<RESUME JSON>
+
+{
+"name":"Nivethitha",
+"image":"",
+"date of birth":"dd-mm-yy",
+"email":"nivethitharaj27@gmail.com",
+"mobile number":"1234567890",
+"address":{
+          "street name":"mno street",
+          "door number":"23",
+          "city":"asad",
+          "postal code":"625879",
+          "country":"india",
+}
+"qualification":[
+            {
+              "sslc":"abc higher secondary school",
+               "percentage":"82",
+             }
+              { 
+               "hsc":"abc higher secondary school",
+               "percentage:"84",
+              }
+             {
+              "ug":"xyz college of enginnering",
+               "percentage":"74",
+              }
+],
+"work experience":[
+                { 
+               "company name":"ghi",
+               "position":"job role",
+               "start date":"dd-mm-yy",
+               "end date":"dd-mm-yy",
+               "highlights":"your role highlights",
+        }
+],
+"skills":[
+        {
+         "name":"category of skill",
+         "level":"",
+         "keywords":[
+
+        ],
+       }
+],
+"interests":[
+           {
+           "name":"category of interest",
+           "keywords":" ",
+}
+],
+"awards":[
+        {
+          "title":"award title",
+          "date":"dd-mm-yy",
+          "awarder":"award given by",
+          "summary":"description of award",
+}
+],
+"languages":"language name",
+}
+
+
+ 
+
