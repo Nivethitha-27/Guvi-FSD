@@ -155,9 +155,10 @@ Admin Module:
 
 
 Wire Frame:
-        
-
-
 
 https://www.figma.com/file/Kr64zVA63OViczVRzW7jCa/Wire-frame?node-id=0%3A1
-\
+       
+
+
+
+
